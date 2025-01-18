@@ -20,4 +20,4 @@ Visit [InfoScam Website](https://holophytic-frequenc.000webhostapp.com/) to acce
 
 Clone the repository:
 ```bash
-git clone https://github.com/Gopinath987/InfoScamm.git
+git clone https://github.com/puskarmishra24/InfoScamm.git
